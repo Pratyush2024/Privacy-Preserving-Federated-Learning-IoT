@@ -1,0 +1,12 @@
+node_modules/
+fedmed-project/node_modules/
+fedmed-project/build/
+
+.env
+.env.local
+.vscode/
+
+__pycache__/
+*.pyc
+
+npm-debug.log*
